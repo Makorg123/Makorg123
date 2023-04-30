@@ -1,4 +1,4 @@
-[![MasterHead](https://www.omadahealth.com/hubfs/QuantifyingBehavior_Header_Animate_080818-1.gif)
+
 <h1 align="center">Hi 👋, I'm Anas Khan</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
