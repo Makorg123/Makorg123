@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning NLP, Computer vision, AI<br><br>👨‍💻 All of my projects are available at https://github.com/Makorg123<br><br>💬 Ask me about SQL, Power Bi, Python, Tableau<br><br>📫 How to reach me 132anaskhan@gmail.com<br><br>⚡ Fun fact I think I am a cool person
 
-
+[![](https://visitcount.itsvg.in/api?id=Makorg123&icon=5&color=0)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EwrygtCF) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-anas-khan-ab91531a4) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@132anaskhan) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Anas-Khan-2039) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19679452) 
 
@@ -26,6 +26,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Makorg123&icon=5&color=0)](https://visitcount.itsvg.in)
+
 
 
