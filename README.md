@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anas Khan</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-🌱 I’m currently learning NLP, Computer vision, AI<br><br>👨‍💻 All of my projects are available at https://github.com/Makorg123<br><br>💬 Ask me about SQL, Power Bi, Python, Tableau<br><br>📫 How to reach me 132anaskhan@gmail.com<br><br>⚡ Fun fact I think I am a cool person
+🌱 I’m currently learning NLP, Computer vision, AI<br><br>👨‍💻 All of my projects are available at https://github.com/Makorg123<br><br>💬 Ask me about SQL, Power Bi, Python, Tableau<br><br>📫 How to reach me 132anaskhan@gmail.com<br><br>
 
 [![](https://visitcount.itsvg.in/api?id=Makorg123&icon=5&color=0)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
