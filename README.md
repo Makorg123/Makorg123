@@ -14,9 +14,9 @@
   <img src ='https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg', height = "50" alt = 'MySQL'/><img width='12'/> 
   <img src ='https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg', height = "50" alt = 'Postgresql'/><img width='12'/> 
   <img src ='https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg', height = "50" alt = 'MongoDB'/><img width='12'/>
-  <img src ='https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg', height = '50' alt = 'Excel'/><img width = '12/>
   <img src ='https://profilinator.rishav.dev/skills-assets/powerbi.png', height = "50" alt = 'PBI'/><img width='12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/tableau.svg', height = "50" alt = 'Tableau'/><img width='12'/> 
+  <img src ='https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg', height = '50' alt = 'Excel'/><img width = '12/>
   <img src ='https://profilinator.rishav.dev/skills-assets/python-original.svg', height = "50" alt = 'Python'/><img width='12'/> 
   <img src ='https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg', height = '50' alt = 'Sklearn'/><img width = '12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg', height = "50" alt = 'Tensorflow'/><img width='12'/>
