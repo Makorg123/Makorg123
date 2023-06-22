@@ -16,7 +16,6 @@
   <img src ='https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg', height = "50" alt = 'MongoDB'/><img width='12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/powerbi.png', height = "50" alt = 'PBI'/><img width='12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/tableau.svg', height = "50" alt = 'Tableau'/><img width='12'/> 
-  <img src ='https://icon-library.com/images/excel-icon/excel-icon-3.jpg', height = '50' alt = 'Excel'/><img width = '12/>
   <img src ='https://profilinator.rishav.dev/skills-assets/python-original.svg', height = "50" alt = 'Python'/><img width='12'/> 
   <img src ='https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg', height = '50' alt = 'Sklearn'/><img width = '12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg', height = "50" alt = 'Tensorflow'/><img width='12'/>
@@ -42,6 +41,7 @@
   <img src ='https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg', height = "50" alt = 'CPP'/><img width='12'/> 
   <img src ='https://profilinator.rishav.dev/skills-assets/mariadb.png', height = "50" alt = 'MariaDB'/><img width='12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/arduino.png', height = "50" alt = 'Arduino'/><img width='12'/>
+  <img src ='https://icon-library.com/images/excel-icon/excel-icon-3.jpg', height = '50' alt = 'Excel'/><img width = '12/>
 </div>
   
 # 📊 GitHub Stats:
