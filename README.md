@@ -42,6 +42,7 @@
   <img src ='https://profilinator.rishav.dev/skills-assets/mariadb.png', height = "50" alt = 'MariaDB'/><img width='12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/flask.png', height = "50" alt = 'Flask'/><img width='12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/arduino.png', height = "50" alt = 'Arduino'/><img width='12'/>
+</div>
   <img src ='', height = "50" alt = ''/><img width='12'/>
   <img src ='', height = "50" alt = ''/><img width='12'/>
   <img src ='', height = "50" alt = ''/><img width='12'/>
