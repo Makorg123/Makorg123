@@ -10,8 +10,9 @@
 
 
 # Tech Skills:
-
-![Logo](img style ="margin: 10px" src = "https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg", height="50")
+<div align='left'>
+  <img src = "https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg", height="50" alt = 'CSS3'/>
+  <img width='12'/>
 
 # 💻 Tech Stack:
 ## My Skill Set  
