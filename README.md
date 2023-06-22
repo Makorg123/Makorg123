@@ -8,6 +8,11 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EwrygtCF) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-anas-khan-ab91531a4) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@132anaskhan) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Anas-Khan-2039) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19679452) 
 
+
+# Tech Skills:
+
+![Logo](https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg)
+
 # 💻 Tech Stack:
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
