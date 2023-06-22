@@ -8,6 +8,8 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EwrygtCF) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-anas-khan-ab91531a4) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@132anaskhan) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Anas-Khan-2039) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19679452) 
 
+# 📊 GitHub Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=Makorg123&theme=dark)](https://git.io/streak-stats)<br/>
 
 # 💻 Tech Stack:
 <div align='left'>
@@ -49,10 +51,6 @@
   <img src ='https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg', height = '50' alt = 'Excel'/><img width = '12/>
 </div>
   
-# 📊 GitHub Stats:
-<div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Makorg123&theme=dark)](https://git.io/streak-stats)<br/>
-</div>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Makorg123&theme=oldie&no-frame=false&no-bg=true&margin-w=4)
 
