@@ -41,7 +41,7 @@
   <img src ='https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg', height = "50" alt = 'CPP'/><img width='12'/> 
   <img src ='https://profilinator.rishav.dev/skills-assets/mariadb.png', height = "50" alt = 'MariaDB'/><img width='12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/arduino.png', height = "50" alt = 'Arduino'/><img width='12'/>
-  <img src ='https://icon-library.com/images/excel-icon/excel-icon-3.jpg', height = '50' alt = 'Excel'/><img width = '12/>
+  <img src ='https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg', height = '50' alt = 'Excel'/><img width = '12/>
 </div>
   
 # 📊 GitHub Stats:
