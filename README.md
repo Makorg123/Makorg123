@@ -18,6 +18,7 @@
   <img src ='https://profilinator.rishav.dev/skills-assets/tableau.svg', height = "50" alt = 'Tableau'/><img width='12'/> 
   <img src ='https://profilinator.rishav.dev/skills-assets/python-original.svg', height = "50" alt = 'Python'/><img width='12'/> 
   <img src ='https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg', height = '50' alt = 'Sklearn'/><img width = '12'/>
+  <img src ='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/768px-SCIPY_2.svg', height = '50' alt ='Scipy'/><img width = '12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg', height = "50" alt = 'Tensorflow'/><img width='12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/keras.png', height = "50" alt = 'Keras'/><img width='12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/opencv-icon.svg', height = "50" alt = 'OpenCV'/><img width='12'/>
