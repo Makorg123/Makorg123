@@ -11,7 +11,6 @@
 
 # 💻 Tech Stack:
 <div align='left'>
-  
   <img src ='https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg', height = "50" alt = 'MySQL'/><img width='12'/> 
   <img src ='https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg', height = "50" alt = 'Postgresql'/><img width='12'/> 
   <img src ='https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg', height = "50" alt = 'MongoDB'/><img width='12'/>
