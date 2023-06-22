@@ -50,8 +50,9 @@
 </div>
   
 # 📊 GitHub Stats:
+<div>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Makorg123&theme=dark)](https://git.io/streak-stats)<br/>
-
+</div>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Makorg123&theme=oldie&no-frame=false&no-bg=true&margin-w=4)
 
