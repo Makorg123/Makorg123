@@ -47,9 +47,8 @@
   <img src ='https://profilinator.rishav.dev/skills-assets/c-original.svg', height = "50" alt = 'C'/><img width='12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg', height = "50" alt = 'CPP'/><img width='12'/> 
   <img src ='https://profilinator.rishav.dev/skills-assets/mariadb.png', height = "50" alt = 'MariaDB'/><img width='12'/>
-  <img src ='https://profilinator.rishav.dev/skills-assets/arduino.png', height = "50" alt = 'Arduino'/><img width='12'/>
   <img src ='https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg', height = '50' alt = 'Excel'/><img width = '12/>
-</div>
+
   
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Makorg123&theme=oldie&no-frame=false&no-bg=true&margin-w=4)
