@@ -11,7 +11,7 @@
 
 # Tech Skills:
 
-![Logo](https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg)
+![Logo](img style ="margin: 10px" src = "https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg", height="50")
 
 # 💻 Tech Stack:
 ## My Skill Set  
