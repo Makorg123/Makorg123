@@ -40,7 +40,6 @@
   <img src ='https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg', height = "50" alt = 'Git'/><img width='12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/gitlab.svg', height = "50" alt = 'GitLab'/><img width='12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg', height = "50" alt = 'Hadoop'/><img width='12'/>
-  <img src ='https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg', height = "50" alt = 'Cassandra'/><img width='12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/raspberrypi.png', height = "50" alt = 'RaspberryPie'/><img width='12'/>
   <img src = "https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg", height="50" alt = 'CSS3'/><img width='12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg', height = "50" alt = 'html5'/><img width='12'/>
