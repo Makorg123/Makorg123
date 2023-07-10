@@ -30,6 +30,7 @@
   <img src ='https://profilinator.rishav.dev/skills-assets/opencv-icon.svg', height = "50" alt = 'OpenCV'/><img width='12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg', height = "50" alt = 'Pytorch'/><img width='12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/r.svg', height = "50" alt = 'R'/><img width='12'/>
+  <img src = 'https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/39595st.jpeg', height = "50" alt = 'Streamlit'/><img width = '12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/flask.png', height = "50" alt = 'Flask'/><img width='12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/django-original.svg', height = "50" alt = 'Django'/><img width='12'/> 
   <img src ='https://profilinator.rishav.dev/skills-assets/linux-original.svg', height = "50" alt = 'Linux'/><img width='12'/>
