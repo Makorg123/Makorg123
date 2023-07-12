@@ -1,6 +1,7 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Anas Khan</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Scientist from India ![image](https://github.com/Makorg123/Makorg123/assets/84630559/6ca3fd7e-6e40-4c0a-9ecc-093e89892e4d)
+</h3>
 
 🌱 I’m currently learning NLP, Computer vision and AI<br><br>👨‍💻 All of my projects are available at https://github.com/Makorg123<br><br>💬 Ask me about ML, DL, Excel,SQL, Power Bi, Python, Tableau<br><br>📫 How to reach me 132anaskhan@gmail.com<br><br>
 
