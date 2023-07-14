@@ -60,7 +60,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Makorg123&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 
----
-
 
 
