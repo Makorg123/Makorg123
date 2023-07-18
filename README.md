@@ -18,6 +18,7 @@
   <img src ='https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg', height = "50" alt = 'MongoDB'/><img width='12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/powerbi.png', height = "50" alt = 'PBI'/><img width='12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/tableau.svg', height = "50" alt = 'Tableau'/><img width='12'/> 
+  <img src = 'https://ahana.io/wp-content/uploads/2021/04/looker_logo_meta_v0005.png', height = "50" alt = 'Looker'/><img width = '12'/>
   <img src = 'https://bootstrapstudio.io/assets/img/logo.png', height = "50" alt = 'Boostrap Studio'/><img width = '12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/python-original.svg', height = "50" alt = 'Python'/><img width='12'/> 
   <img src = 'https://w7.pngwing.com/pngs/134/662/png-transparent-numpy-hd-logo.png', height = '50' alt = 'Numpy'/><img width = '12'/>
