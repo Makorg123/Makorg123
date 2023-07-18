@@ -18,6 +18,7 @@
   <img src ='https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg', height = "50" alt = 'MongoDB'/><img width='12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/powerbi.png', height = "50" alt = 'PBI'/><img width='12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/tableau.svg', height = "50" alt = 'Tableau'/><img width='12'/> 
+  <img src = 'https://bootstrapstudio.io/assets/img/logo.png', height = "50" alt = 'Boostrap Studio'/><img width = '12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/python-original.svg', height = "50" alt = 'Python'/><img width='12'/> 
   <img src = 'https://w7.pngwing.com/pngs/134/662/png-transparent-numpy-hd-logo.png', height = '50' alt = 'Numpy'/><img width = '12'/>
   <img src = 'https://pandas.pydata.org/static/img/pandas.svg', height = '50' alt ='Pandas'/><img width = '20'/>
@@ -35,7 +36,6 @@
   <img src ='https://profilinator.rishav.dev/skills-assets/django-original.svg', height = "50" alt = 'Django'/><img width='12'/> 
   <img src ='https://profilinator.rishav.dev/skills-assets/linux-original.svg', height = "50" alt = 'Linux'/><img width='12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg', height = "50" alt = 'docker'/><img width='12'/> 
-  <img src ='https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg', height = "50" alt = 'AWS'/><img width='12'/> 
   <img src ='https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg', height = "50" alt = 'Azure'/><img width='12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg', height = "50" alt = 'GCP'/><img width='12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg', height = "50" alt = 'Git'/><img width='12'/>
