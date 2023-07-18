@@ -47,7 +47,6 @@
   <img src ='https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg', height = "50" alt = 'html5'/><img width='12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/c-original.svg', height = "50" alt = 'C'/><img width='12'/>
   <img src ='https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg', height = "50" alt = 'CPP'/><img width='12'/> 
-  <img src ='https://profilinator.rishav.dev/skills-assets/mariadb.png', height = "50" alt = 'MariaDB'/><img width='12'/>
   <img src ='https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg', height = '50' alt = 'Excel'/><img width = '12/>
 
   
