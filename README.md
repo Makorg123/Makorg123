@@ -1,8 +1,8 @@
 # Hey 👋, I'm Anas Khan!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mohammed-anas-khan-ab91531a4)
-
 [![Discord Badge](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EwrygtCF) 
+
 🌱 I’m currently learning NLP, Computer vision and AI<br><br>👨‍💻 All of my projects are available at https://github.com/Makorg123<br><br>💬 Ask me about ML, DL, Excel,SQL, Power Bi, Python, Tableau<br><br>📫 How to reach me 132anaskhan@gmail.com<br><br>
 
 [![](https://visitcount.itsvg.in/api?id=Makorg123&icon=5&color=0)](https://visitcount.itsvg.in)
