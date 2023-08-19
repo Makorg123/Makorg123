@@ -3,19 +3,23 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mohammed-anas-khan-ab91531a4)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20beff?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/fiq423ubf)
 
+### Glad to see you here! 🔭
 
+Recent MCA grad passionate about data science. Proficient in SQL for comprehensive data handling. <br> Skilled in dynamic visualizations via Tableau, Power BI, and Excel. Expertise in preprocessing, managing diverse data. <br> Strong Python skills for advanced analysis. Detail-oriented, committed to precision. Demonstrated trend-spotting through impactful projects.<br> Eager to learn, contribute, leverage data science tools for insights. 
+
+## Technological Aspects:
 - 🛠 &nbsp; I’m currently learning NLP, Computer vision and AI
-- 👨‍💻 &nbsp; All of my projects are available at https://github.com/Makorg123
+- 👨‍💻 &nbsp; All of my projects are available on [Github](https://github.com/Makorg123)
 - 💬 &nbsp; Ask me about ML, DL, Excel,SQL, Power Bi, Python, Tableau
 - 📫 &nbsp; How to reach me 132anaskhan@gmail.com<br><br>
 
 [![](https://visitcount.itsvg.in/api?id=Makorg123&icon=5&color=0)](https://visitcount.itsvg.in)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Makorg123&theme=default)](https://git.io/streak-stats)<br/>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
   <code><img height = "38" src ='https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg' alt = 'Excel'></code>
  <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg' alt = 'MySQL'></code>
@@ -54,13 +58,16 @@
   <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg' alt = 'CPP'></code>
 
   
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Makorg123&theme=oldie&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
+#
+<div align="center">
 
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 
