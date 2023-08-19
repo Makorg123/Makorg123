@@ -4,7 +4,10 @@
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20beff?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/fiq423ubf)
 
 
-🌱 I’m currently learning NLP, Computer vision and AI<br><br>👨‍💻 All of my projects are available at https://github.com/Makorg123<br><br>💬 Ask me about ML, DL, Excel,SQL, Power Bi, Python, Tableau<br><br>📫 How to reach me 132anaskhan@gmail.com<br><br>
+- 🛠 &nbsp; I’m currently learning NLP, Computer vision and AI
+- 👨‍💻 &nbsp; All of my projects are available at https://github.com/Makorg123
+- 💬 &nbsp; Ask me about ML, DL, Excel,SQL, Power Bi, Python, Tableau
+- 📫 &nbsp; How to reach me 132anaskhan@gmail.com<br><br>
 
 [![](https://visitcount.itsvg.in/api?id=Makorg123&icon=5&color=0)](https://visitcount.itsvg.in)
 
