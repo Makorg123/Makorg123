@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mohammed-anas-khan-ab91531a4)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20beff?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/fiq423ubf)
 
-## Welcome, it's great to have you here! 🔭
+## Welcome, it's great to have you here! 👽
 
 I am a recent graduate of MCA with a strong interest in data science. Proficient in SQL for comprehensive data handling. <br> Skilled in dynamic visualizations via Tableau, Power BI, and Excel. Expertise in preprocessing, managing diverse data. <br> Strong Python skills for advanced analysis. Detail-oriented, committed to precision. Demonstrated trend-spotting through impactful projects.<br> Eager to learn, contribute, leverage data science tools for insights. 
 
