@@ -5,7 +5,7 @@
 
 ## Welcome, it's great to have you here! 👽
 
-I am a recent graduate of MCA with a strong interest in data science. Proficient in SQL for comprehensive data handling. <br> Skilled in dynamic visualizations via Tableau, Power BI, and Excel. Expertise in preprocessing, managing diverse data. <br> Strong Python skills for advanced analysis. Detail-oriented, committed to precision. Demonstrated trend-spotting through impactful projects.<br> Eager to learn, contribute, leverage data science tools for insights. 
+I am a recent graduate of MCA with a strong interest in data science. Proficient in SQL for comprehensive data handling. <br> Skilled in dynamic visualizations via Tableau, Power BI, and Excel. Expertise in preprocessing, and managing diverse data. <br> Strong Python skills for advanced analysis. Detail-oriented, committed to precision. Demonstrated trend-spotting through impactful projects.<br> Eager to learn, contribute, and leverage data science tools for insights. 
 
 ## Technological Aspects:
 - 🛠 &nbsp; I’m currently learning NLP, Computer vision and AI
