@@ -42,6 +42,7 @@ I am a recent graduate of MCA with a strong interest in data science. Proficient
   <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg' alt = 'Pytorch'></code>
   <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/r.svg' alt = 'R'></code>
   <code><img height = "38" src ='https://user-images.githubusercontent.com/611655/181510038-e38f4001-c304-411e-8f45-f71554eb9763.png' alt='Dagshub'></code>
+  <code><img height = "38" src ='https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png' alt = 'Mlflow'></code>
   <code><img height = "38" src = 'https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/39595st.jpeg' alt = 'Streamlit'></code>
   <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/flask.png' alt = 'Flask'></code>
   <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/django-original.svg' alt = 'Django'></code>
