@@ -28,7 +28,6 @@ I am a recent graduate of MCA with a strong interest in data science. Proficient
   <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/powerbi.png' alt = 'PBI'></code>
  <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/tableau.svg' alt = 'Tableau'></code>
   <code><img height = "38" src = 'https://ahana.io/wp-content/uploads/2021/04/looker_logo_meta_v0005.png' alt = 'Looker'></code>
-  <code><img height = "38" src = 'https://bootstrapstudio.io/assets/img/logo.png' alt = 'Boostrap Studio'></code>
   <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/python-original.svg' alt = 'Python'></code>
   <code><img height = "38" src = 'https://w7.pngwing.com/pngs/134/662/png-transparent-numpy-hd-logo.png' alt = 'Numpy'></code>
   <code><img height = "38" src = 'https://pandas.pydata.org/static/img/pandas.svg' alt ='Pandas'></code>
@@ -56,8 +55,8 @@ I am a recent graduate of MCA with a strong interest in data science. Proficient
   <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/raspberrypi.png' alt = 'RaspberryPie'></code>
   <code><img height = "38"  src = "https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt = 'CSS3'></code>
   <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg' alt = 'html5'></code>
+  <code><img height = "38" src = 'https://bootstrapstudio.io/assets/img/logo.png' alt = 'Boostrap Studio'></code>
   <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/c-original.svg' alt = 'C'></code>
-  <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg' alt = 'CPP'></code>
 
   
 
