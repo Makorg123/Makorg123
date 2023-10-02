@@ -34,12 +34,12 @@ I am a recent graduate of MCA with a strong interest in data science. Proficient
   <code><img height = "38" src = 'https://pandas.pydata.org/static/img/pandas.svg' alt ='Pandas'></code>
   <code><img height = "38" src = 'https://image.pngaaa.com/242/4152242-middle.png' alt ='Matplolib'></code>
   <code><img height = "38" src = 'https://seaborn.pydata.org/_images/logo-tall-lightbg.svg' alt ='Seaborn'></code>
-  <code><img height = "38" src ='https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg' alt = 'Sklearn'></code>
   <code><img height = "38" src ='https://e7.pngegg.com/pngimages/665/534/png-clipart-scipy-numpy-python-scikit-learn-pip-others-miscellaneous-blue.png' alt ='Scipy'></code>
   <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg' alt = 'Tensorflow'></code>
   <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/keras.png' alt = 'Keras'></code>
   <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/opencv-icon.svg' alt = 'OpenCV'></code>
   <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg' alt = 'Pytorch'></code>
+  <code><img height = "38" src ='https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg' alt = 'Sklearn'></code>
   <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/r.svg' alt = 'R'></code>
   <code><img height = "38" src ='https://user-images.githubusercontent.com/611655/181510038-e38f4001-c304-411e-8f45-f71554eb9763.png' alt='Dagshub'></code>
   <code><img height = "38" src ='https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png' alt = 'Mlflow'></code>
