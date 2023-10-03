@@ -19,6 +19,44 @@ I am a recent graduate of MCA with a strong interest in data science. Proficient
 ## 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Makorg123&theme=default)](https://git.io/streak-stats)<br/>
 
+
+
+<table>
+  <tr>
+    <td align="center"><b>Database</b></td>
+    <td align="center"><b>Visualization</b></td>
+    <td align="center"><b>ML</b></td>
+    <td align="center"><b>MLflow</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg' alt = 'MySQL'></code>
+      <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg' alt = 'Postgresql'></code> 
+      <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg' alt = 'MongoDB'></code>
+      Database Skill Description
+    </td>
+    <td align="center">
+      <img src="visualization_image.png" alt="Visualization Skill" width="100px" height="100px" /><br />
+      Visualization Skill Description
+    </td>
+    <td align="center">
+      <img src="mlflow_image.png" alt="MLflow Skill" width="100px" height="100px" /><br />
+      MLflow Skill Description
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
 ## 💻 Tech Stack:
 
   <code><img height = "38" src ='https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg' alt = 'Excel'></code>
