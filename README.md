@@ -80,6 +80,7 @@ I am a recent graduate of MCA with a strong interest in data science. Proficient
       <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg' alt = 'Azure'></code>
       <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg'  alt = 'Hadoop'></code>
       <code><img height = "38" src = 'https://bootstrapstudio.io/assets/img/logo.png' alt = 'Boostrap Studio'></code>
+      <code><img height = "38" src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/1200px-Vmware_workstation_16_icon.svg.png' alt = 'VMWare'></code>
   </tr>
 </table>
 
