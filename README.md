@@ -75,7 +75,6 @@ I am a recent graduate of MCA with a strong interest in data science. Proficient
       <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg' alt = 'docker'></code> 
     </td>
     <td align="center">  
-      <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg' alt = 'Git'></code>
       <code><img height = "38" src ='https://w7.pngwing.com/pngs/862/624/png-transparent-aws-vector-brand-logos-icon.png' alt = 'AWS'></code>
       <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg' alt = 'Azure'></code>
       <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg'  alt = 'Hadoop'></code>
