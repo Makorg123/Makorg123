@@ -27,9 +27,9 @@ I am a recent graduate of MCA with a strong interest in data science. Proficient
     <td align="center"><b>Visualization</b></td>
     <td align="center"><b>Programming</b>
     <td align="center"><b>ML</b></td>
-    <td align="center"><b></b>DL</b></td>
-    <td align="center"><b></b>MLOps</b></td>
-    <td align="center"><b></b>Others</b></td>
+    <td align="center"><b>DL</b></td>
+    <td align="center"><b>MLOps</b></td>
+    <td align="center"><b>Others</b></td>
   </tr>
   <tr>
     <td align="center">
