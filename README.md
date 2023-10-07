@@ -62,10 +62,10 @@ I am a recent graduate of MCA with a strong interest in data science. Proficient
       <code><img height = "30" src ='https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg' alt = 'Sklearn'></code>
     </td>
     <td align="center">
-      <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg' alt = 'Tensorflow'></code>
-      <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/keras.png' alt = 'Keras'></code>
-      <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/opencv-icon.svg' alt = 'OpenCV'></code>
-      <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg' alt = 'Pytorch'></code>
+      <code><img height = "30" src ='https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg' alt = 'Tensorflow'></code>
+      <code><img height = "30" src ='https://profilinator.rishav.dev/skills-assets/keras.png' alt = 'Keras'></code>
+      <code><img height = "30" src ='https://profilinator.rishav.dev/skills-assets/opencv-icon.svg' alt = 'OpenCV'></code>
+      <code><img height = "30" src ='https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg' alt = 'Pytorch'></code>
     </td>
     <td align="center">
       <code><img height = "30" src ='https://user-images.githubusercontent.com/611655/181510038-e38f4001-c304-411e-8f45-f71554eb9763.png' alt='Dagshub'></code>
