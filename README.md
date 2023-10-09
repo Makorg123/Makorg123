@@ -79,7 +79,7 @@ I am a recent graduate of MCA with a strong interest in data science. Proficient
       <code><img height = "30" src ='https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg' alt = 'Azure'></code>
       <code><img height = "30" src ='https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg'  alt = 'Hadoop'></code>
       <code><img height = "30" src ='https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1200px-Apache_Hive_logo.svg.png' alt = 'Hive'></code>
-      <code><img height = "30" src ='https://editor.analyticsvidhya.com/uploads/609821.1.jpg' alt ='PySpark'></code>
+      <code><img height = "30" src ='https://cdn-images-1.medium.com/max/851/1*nPcdyVwgcuEZiEZiRqApug.jpeg' alt ='PySpark'></code>
       <code><img height = "30" src = 'https://bootstrapstudio.io/assets/img/logo.png' alt = 'Boostrap Studio'></code>
       <code><img height = "30" src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/1200px-Vmware_workstation_16_icon.svg.png' alt = 'VMWare'></code>
   </tr>
