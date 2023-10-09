@@ -47,8 +47,8 @@ I am a recent graduate of MCA with a strong interest in data science. Proficient
     <td align="center>
       <code><img height = "30" src = "https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt = 'CSS3'></code>
       <code><img height = "30" src ='https://profilinator.rishav.dev/skills-assets/python-original.svg' alt = 'Python'></code>
-      <code><img height = "30" src ='https://profilinator.rishav.dev/skills-assets/r.svg' alt = 'R'></code>
       <code><img height = "30" src ='https://profilinator.rishav.dev/skills-assets/django-original.svg' alt = 'Django'></code>
+      <code><img height = "30" src ='https://profilinator.rishav.dev/skills-assets/r.svg' alt = 'R'></code>
       <code><img height = "30" src ='https://profilinator.rishav.dev/skills-assets/linux-original.svg' alt = 'Linux'></code>
       <code><img height = "30" src ='https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg' alt = 'html5'></code>
       <code><img height = "30" src = "https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt = 'CSS3'></code>
