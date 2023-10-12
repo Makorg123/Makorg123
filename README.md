@@ -9,8 +9,8 @@ I am a recent graduate of MCA with a strong interest in data science. Proficient
 
 ## Technological Aspects:
 - 🛠 &nbsp; I’m currently learning NLP, Computer vision and AI
-- 👨‍💻 &nbsp; All of my projects are available on [Github](https://github.com/Makorg123)
-- 💬 &nbsp; Ask me about ML, DL, Excel,SQL, Power Bi, Python, Tableau
+- 👨‍💻 &nbsp; All of my projects are available on [Github](https://github.com/Makorg123/DataScience_Projects)
+- 💬 &nbsp; Ask me about ML, DL, Excel, SQL, Python, Power BI & Tableau.
 - 📫 &nbsp; How to reach me 132anaskhan@gmail.com<br><br>
 
 [![](https://visitcount.itsvg.in/api?id=Makorg123&icon=5&color=0)](https://visitcount.itsvg.in)
