@@ -17,7 +17,8 @@ I am a recent graduate of MCA with a strong interest in data science. Proficient
 
 
 ## 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=Makorg123&theme=default)](https://git.io/streak-stats)<br/>
+## [![GitHub Streak](https://streak-stats.demolab.com?user=Makorg123&theme=default)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Makorg123)](https://git.io/streak-stats)
 
 
 
