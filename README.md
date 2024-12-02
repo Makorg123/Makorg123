@@ -47,16 +47,7 @@ You’ll find a variety of **regression**, **classification**, and **NLP tasks**
 ---
 
 
-<h2 align="center">💬 Let's Connect!</h2>
 
-<p align="center">
-📫 Reach me at **132anaskhan@gmail.com**  
-🔗 Connect on <a href="#">LinkedIn</a> or explore my work on <a href="#">Kaggle</a>.  
-</p>
-
----
-
-<p align="center">Feel free to explore my repositories, contribute, or just say hi! 😊</p>
 
 
 [![](https://visitcount.itsvg.in/api?id=Makorg123&icon=5&color=0)](https://visitcount.itsvg.in)
@@ -136,12 +127,16 @@ You’ll find a variety of **regression**, **classification**, and **NLP tasks**
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+--- 
+<h2 align="center">💬 Let's Connect!</h2>
 
-#
-<div align="center">
+<p align="center">
+📫 Reach me at 132anaskhan@gmail.com 
+🔗 Connect on <a href="https://linkedin.com/in/mohammed-anas-khan-ab91531a4">LinkedIn</a> or explore my work on <a href="https://www.kaggle.com/fiq423ubf">Kaggle</a>.  
+</p>
 
-### Show some ❤️ by starring some of the repositories!
+---
 
-</div>
+<p align="center">Feel free to explore my repositories, contribute, or just say hi! 😊</p>
 
 
