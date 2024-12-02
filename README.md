@@ -1,17 +1,63 @@
-# Hey 👋, I'm Anas Khan!
+<h1 align='center'> Hey there 👋, I'm Anas Khan</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mohammed-anas-khan-ab91531a4)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20beff?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/fiq423ubf)
+<p align="center">
+  <a href="https://linkedin.com/in/mohammed-anas-khan-ab91531a4">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://www.kaggle.com/fiq423ubf">
+    <img src="https://img.shields.io/badge/-Kaggle-20beff?style=flat-square&logo=Kaggle&logoColor=white" alt ="gith hub Badge">
+  </a>
+</p>
 
-## Welcome, it's great to have you here! 👽
+<p align="center">Welcome to my GitHub profile! 🚀</p>
+<p align="center">
+  I'm an <strong>Associate Data Scientist</strong> with over 2 years of experience in <strong>data gathering, cleaning, and analysis</strong>.
+</p>
 
-I am a recent graduate of MCA with a strong interest in data science. Proficient in SQL for comprehensive data handling. <br> Skilled in dynamic visualizations via Tableau, Power BI, and Excel. Expertise in preprocessing, and managing diverse data. <br> Strong Python skills for advanced analysis. Detail-oriented, committed to precision. Demonstrated trend-spotting through impactful projects.<br> Eager to learn, contribute, and leverage data science tools for insights. 
 
-## Technological Aspects:
-- 🛠 &nbsp; I’m currently learning NLP, Computer vision and AI
-- 👨‍💻 &nbsp; All of my projects are available on [Github](https://github.com/Makorg123/DataScience_Projects)
-- 💬 &nbsp; Ask me about ML, DL, Excel, SQL, Python, Power BI & Tableau.
-- 📫 &nbsp; How to reach me 132anaskhan@gmail.com<br><br>
+---
+
+<h2 align="center">🌟 About Me</h2>
+
+- 🎓 **MCA Graduate** with a gold medal and a passion for turning data into actionable insights.  
+- 📊 Skilled in **SQL**, **Python**, and advanced data visualization tools like **Power BI**, **Tableau**, and **Excel**.  
+- 📈 Experienced in **Machine Learning**, **Deep Learning**, and preprocessing diverse datasets for impactful projects.  
+- 🤖 Currently diving deeper into **NLP**, **Computer Vision**, and **AI**.  
+- 💡 Committed to leveraging data science to solve real-world problems and support data-driven decisions.  
+
+---
+
+<h2 align="center">🛠️ Technologies & Tools</h2>
+
+- **Languages**: Python, SQL  
+- **Libraries & Frameworks**: Pandas, Numpy, Scikit-learn, TensorFlow, Keras, OpenCV  
+- **Tools**: Power BI, Tableau, Excel  
+- **Version Control**: Git  
+- **Other Skills**: MLOps (MLflow), Django, Flask  
+
+---
+
+<h2 align="center">📂 Projects</h2>
+
+You’ll find a variety of **regression**, **classification**, and **NLP tasks** in my GitHub repositories.  
+💡 Check out my repos:  
+- [Data-Science-mini-projects](https://github.com/your-github/Data-Science-mini-projects)  
+- [Bot-Development-Projects](https://github.com/your-github/Bot-Development-Projects)  
+
+---
+
+
+<h2 align="center">💬 Let's Connect!</h2>
+
+<p align="center">
+📫 Reach me at **132anaskhan@gmail.com**  
+🔗 Connect on <a href="#">LinkedIn</a> or explore my work on <a href="#">Kaggle</a>.  
+</p>
+
+---
+
+<p align="center">Feel free to explore my repositories, contribute, or just say hi! 😊</p>
+
 
 [![](https://visitcount.itsvg.in/api?id=Makorg123&icon=5&color=0)](https://visitcount.itsvg.in)
 
