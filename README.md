@@ -41,7 +41,7 @@
 
 <h2 align="center">📂 Projects</h2>
 
-You’ll find a variety of **regression**, **classification**, and **NLP tasks** in my GitHub repositories.  
+You’ll find a variety of **regression**, **classification**, **NLP tasks**, **Deep Learning** in my GitHub repositories.  
 💡 Check out my repos:  
 - [Data-Science-mini-projects](https://github.com/Makorg123/DataScience_Mini_Projects)  
 - [Bot-Development-Projects](https://github.com/Makorg123/Bot-Development-Projects)  
