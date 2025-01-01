@@ -81,7 +81,6 @@ You’ll find a variety of **regression**, **classification**, **NLP tasks**, **
     <td align="center">
        <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/powerbi.png' alt = 'PBI'></code>
        <code><img height = "38" src ='https://profilinator.rishav.dev/skills-assets/tableau.svg' alt = 'Tableau'></code>
-       <code><img height = "38" src = 'https://ahana.io/wp-content/uploads/2021/04/looker_logo_meta_v0005.png' alt = 'Looker'></code>
     </td>
     <td align="center>
       <code><img height = "30" src = "https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt = 'CSS3'></code>
