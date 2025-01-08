@@ -11,7 +11,7 @@
 
 <p align="center">Welcome to my GitHub profile! </p>
 <p align="center">
-  I'm an <strong>Associate Data Scientist</strong> with over 2 years of experience in <strong>data preparation, model building, deployment, and performance monitoring</strong> to deliver actionable insights and support data-driven decisions..
+  I'm an <strong>Associate Data Scientist</strong> with over 2 years of experience in <strong>data preparation, model building, deployment, and performance monitoring</strong> to deliver actionable insights and support data-driven decisions.
 
     
 </p>
