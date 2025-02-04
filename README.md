@@ -44,14 +44,13 @@ You’ll find a variety of **regression**, **classification**, **NLP tasks**, **
 
 
 
-🤝 Collaboration Opportunities
+<h2 align="center">🤝 Collaboration Opportunities</h2>
 I'm open to:
-✅ ML Engineering roles
-✅ End-to-end data product development
-✅ Open-source contributions in AI/ML
-✅ Technical writing partnerships
 
-<p align="center"> 📫 <strong>Let's Connect:</strong> <a href="mailto:132anaskhan@gmail.com">132anaskhan@gmail.com</a> | <a href="https://linkedin.com/in/mohammed-anas-khan-ab91531a4">LinkedIn</a> </p>
+- ✅ ML Engineering roles
+- ✅ End-to-end data product development
+- ✅ Open-source contributions in AI/ML
+- ✅ Technical writing partnerships
 
 
 --- 
