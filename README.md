@@ -51,7 +51,7 @@ I'm open to:
 - ✅ End-to-end data product development
 - ✅ Open-source contributions in AI/ML
 - ✅ Technical writing partnerships
-
+-
 
 --- 
 <h2 align="center">💬 Let's Connect!</h2>
