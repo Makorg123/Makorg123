@@ -37,7 +37,8 @@
 
 You’ll find a variety of **regression**, **classification**, **NLP tasks**, **Deep Learning** in my GitHub repositories.  
 💡 Check out my repos:  
-- [Data-Science-mini-projects](https://github.com/Makorg123/DataScience_Mini_Projects)  
+- [Data-Science-Streamlit-Projects](https://github.com/Makorg123/DataScience_Mini_Projects)
+- [Data-Science-Flask-Projects]()  
 - [Bot-Development-Projects](https://github.com/Makorg123/Bot-Development-Projects)  
 
 ---
