@@ -5,7 +5,7 @@
 
 <h2 align="center">Professional Summary </h2>
 
-<p align="Center"><strong>Associate Data Scientist</strong> with 2+ years of experience in `end-to-end` ML lifecycle management, from exploratory analysis to production deployment.</p>
+<p align="Center"><strong>Associate Data Scientist</strong> with 2+ years of experience in end-to-end ML lifecycle management, from exploratory analysis to production deployment.</p>
 
 - ✔️ **Core Expertise**: Predictive Modeling (Regression/Classification), NLP, Computer Vision, MLOps
 - ✔️ **Proven Impact:** Built and deployed 10+ ML models improving business KPIs by 15-30%
