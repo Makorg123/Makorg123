@@ -1,4 +1,7 @@
-<h1 align="center">Anas Khan | Data Scientist & ML Engineer</h1> <p align="center"> <a href="https://linkedin.com/in/mohammed-anas-khan-ab91531a4"> <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://www.kaggle.com/fiq423ubf"> <img src="https://img.shields.io/badge/Kaggle-20beff?style=for-the-badge&logo=kaggle&logoColor=white"> </a> <a href="mailto:132anaskhan@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a> </p>
+<h1 align="center">Anas Khan | Data Scientist & ML Engineer</h1> <p align="center"> <a href="https://linkedin.com/in/mohammed-anas-khan-ab91531a4"> 
+  <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://www.kaggle.com/fiq423ubf">
+    <img src="https://img.shields.io/badge/Kaggle-20beff?style=for-the-badge&logo=kaggle&logoColor=white"> </a> <a href="mailto:132anaskhan@gmail.com"> 
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a> </p>
 
 ---
 
